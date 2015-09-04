@@ -1,9 +1,9 @@
 #<a name = "top"></a>Academic papers
 Term papers, essays and research proposals related to psychology, neuroscience, computer science, and philosophy.
 
-###[Here](https://github.com/iisjade/writing-samples/blob/master/academic/CourseraFinalProject.pdf) is a joint article on the effect of sleep deprivation on sleep stages [CompSci/Neuroscience]
+###[Here](https://github.com/iisjade/writing-samples/blob/master/academic/notes-from-underground.md) is an excerpt from my reflection on Dostoyevsky's *Notes From Undergound* [Philosophy]
 
-###[Here](https://github.com/iisjade/writing-samples/blob/master/academic/notes-from-underground.md) is a reflection on Dostoyevsky's *Notes From Undergound* [Philosophy]
+###[Here](https://github.com/iisjade/writing-samples/blob/master/academic/CourseraFinalProject.pdf) is a joint article on the effect of sleep deprivation on sleep stages [CompSci/Neuroscience]
 
 ###[Here](https://github.com/iisjade/writing-samples/blob/master/academic/personality-stress.md) is a term paper on personality-stress associations [Psychology]
 ####Table of Contents
